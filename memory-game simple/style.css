@@ -1,0 +1,18 @@
+#game div {
+  border: 1px solid black;
+  width: 10%;
+  height: 150px;
+  margin: 50px;
+  display: inline-grid;
+  margin-left: 70px;
+}
+
+h1 {
+  color:rgb(235, 134, 58);
+  margin-left: 500px;
+  font-size: 4rem;
+  font-style: italic;
+}
+body {
+  background-color:antiquewhite;
+}
